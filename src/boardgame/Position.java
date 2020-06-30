@@ -8,10 +8,10 @@ public class Position {
 		this.row = roll;
 		this.column = column;
 	}
-	public int getRoll() {
+	public int getRow() {
 		return row;
 	}
-	public void setRoll(int roll) {
+	public void setRow(int roll) {
 		this.row = row;
 	}
 	public int getColunm() {
